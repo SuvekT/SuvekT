@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvek Thange</h1>
 <h3 align="center">Engineering Student from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/w6Afg5fCX8h_wkW1FD2XLMOuKUOXVT9tN2hJWmhl6Rc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvMzg0ODkxNC9w/cm9ncmFtbWVyLmdp/Zg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvekt&label=Profile%20views&color=0e75b6&style=flat" alt="suvekt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suvekthange" target="blank"><img src="https://img.shields.io/twitter/follow/suvekthange?logo=twitter&style=for-the-badge" alt="suvekthange" /></a> </p>
